@@ -5,6 +5,7 @@ Includes:
 - [ESlint](https://eslint.org/): Most popular and common linter in the industry
 - [Prettier](https://github.com/prettier/eslint-config-prettier#installation): Unlike a linter, it’s not looking for style errors, but specifically targeting the layout of your code and making intelligent decisions about things like spaces, indentation levels and line-breaks.
 - [Babel](https://github.com/babel/babel-loader): a tool that takes your modern JavaScript code and transpiles it to code that older browsers can understand. It can be used from the command line with a simple command, and can also easily be added to your webpack configuration with the babel-loader.
+- [Presets and plugins in Babel](https://blog.jakoblind.no/babel-preset-env/)
 - Default index.html that contains div within body with the id 'content'
 - .gitignore
 
